@@ -1,6 +1,6 @@
 # Hi, I'm hypnodron 👋
 
-I'm an AI engineer and indie hacker. I build web and native apps, from tools you keep in your menu bar to games you pass around the room.
+I'm an AI engineer and indie hacker. I build web and native apps.
 
 [👉 Check out all my projects at hypnodron.com](https://hypnodron.com) · [Follow me on X](https://x.com/hypnodron)
 
